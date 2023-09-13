@@ -15,3 +15,12 @@ public class Program13 {
 		System.out.println("Maximum Number :"+max);
 	}
 }
+
+/*Swap To String values without using Third varible
+String a="Neha";
+String b="Wagaskar";
+a=a+b;
+b=a.substring(0,(a.length()-b.length()));
+a=a.substring(b.length());
+System.out.println(a);
+System.out.println(b);*/
